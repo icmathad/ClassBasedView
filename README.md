@@ -1,0 +1,2 @@
+# ClassBasedView
+simple CBV pro
